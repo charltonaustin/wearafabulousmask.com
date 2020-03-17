@@ -1,1 +1,1 @@
-sed -i.bu 's/Fucking/Fabulous/g' ./index.html && sed -i.bu 's/Fuck/Fabulous/g' ./index.html && sed -i.bu 's/larrysalibra/charltonaustin/g' ./index.html
+sed -i.bu 's/stay-the-fuck-at-home/stay-in-your-fabulous-home/g' ./index.html && sed -i.bu 's#img/#fabulous_images/#g' ./index.html && sed -i.bu 's/Fucking/Fabulous/g' ./index.html && sed -i.bu 's/Fuck/Fabulous/g' ./index.html && sed -i.bu 's/larrysalibra/charltonaustin/g' ./index.html
