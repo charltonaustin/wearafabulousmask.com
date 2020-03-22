@@ -1,6 +1,10 @@
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://WearAFuckingMask.com
 rm -rf img/ sfw/
 mv wearafuckingmask.com/* .
+
+mv img/Covid-19-curves-graphic-social-v3.gif fabulous_images/
+mv img/howtowearamaskthumb.jpg fabulous_images/
+
 sed -i.bu 's/wearafuckingmask-/wearafabmask-/g' ./index.html 
 sed -i.bu 's/staythefuckhome/stay-in-your-fabulous-home/g' ./index.html 
 sed -i.bu 's#img/#fabulous_images/#g' ./index.html 
