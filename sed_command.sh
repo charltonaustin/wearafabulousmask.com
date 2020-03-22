@@ -5,6 +5,7 @@ mv wearafuckingmask.com/* .
 mv img/Covid-19-curves-graphic-social-v3.gif fabulous_images/
 mv img/howtowearamaskthumb.jpg fabulous_images/
 mv img/larry-mask.jpg fabulous_images/
+mv img/shirts.jpg fabulous_images/
 
 sed -i.bu 's/wearafuckingmask-/wearafabmask-/g' ./index.html 
 sed -i.bu 's/staythefuckhome/stay-in-your-fabulous-home/g' ./index.html 
