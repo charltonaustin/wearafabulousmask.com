@@ -14,4 +14,6 @@ sed -i.bu 's/Fabulous flu/Un-fabulous flu/g' ./index.html
 sed -i.bu 's/Fabulous cough/Un-fabulous cough/g' ./index.html
 sed -i.bu 's/Fabulous sneeze/Un-fabulous sneeze/g' ./index.html
 sed -i.bu 's/Fabulous risk/Un-fabulous risk/g' ./index.html
-sed -i.bu 's/Fabulous those Fabulous Fabulousers, they Fabulous let this Fabulous/Ignore them, they let this Un-fabulous/' ./index.html
+sed -i.bu 's/Fabulous Curve/Un-fabulous Curve/g' ./index.html
+sed -i.bu 's/Fabulous those Fabulous Fabulousers/Ignore them/g' ./index.html
+sed -i.bu 's/they Fabulous let this Fabulous/they let this Un-fabulous/g' ./index.html
